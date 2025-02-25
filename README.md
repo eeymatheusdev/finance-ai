@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=nextjs)
 ![Tailwind](https://img.shields.io/badge/Tailwind-333333?style=flat&logo=tailwind)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-333333?style=flat&logo=shadcn)
-![Stripe](https://img.shields.io/badge/Stripe%20UI-333333?style=flat&logo=stripe)
+![Stripe](https://img.shields.io/badge/Stripe-333333?style=flat&logo=stripe)
 
 ## 💻 Projeto
 
