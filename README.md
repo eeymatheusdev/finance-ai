@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img alt="fsw food" title="fsw food" src=".github/Logo.png" />
+  <img alt="Finance AI" title="Finance AI" src=".github/LogoOk.png" />
 </h1>
 
 <br>
 
 <p align="center">
-  <img alt="fsw food" src=".github/Capa.png" width="100%">
+  <img alt="Finance AI" src=".github/Capa.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
