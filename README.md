@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Finance AI" title="Finance AI" src=".github/LogoOk.png" />
+  <img alt="Finance AI" title="Finance AI" src=".github/LogoOk.png" width="25%" height="25%" />
 </h1>
 
 <br>
